@@ -8,6 +8,9 @@ packages = [{include = "python_quicksight"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+boto3 = "~1.28.22"
+commitizen = "~3.6.0"
+twine = "~4.0.2"
 
 
 [build-system]
