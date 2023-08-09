@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-quicksight"
+version = "0.0.1-alpha"
+description = ""
+authors = ["herbert.santos <herbert.santos@gmail.com>"]
+readme = "README.md"
+packages = [{include = "python_quicksight"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
