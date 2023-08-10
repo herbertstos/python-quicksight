@@ -1,0 +1,4 @@
+boto3==1.28.23
+commitizen==3.6.0
+mkdocs==1.5.2
+twine==4.0.2
